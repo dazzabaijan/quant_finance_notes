@@ -3,4 +3,4 @@ This repo contains my latex notes of several quantitative finance textbooks that
 
 ## Contents
 
-### 1) Paul Willmott Introduces Quantitative Finance - Notes_on_PWIQF.pdf
+### 1) Notes_on_PWIQF.pdf - Paul Willmott Introduces Quantitative Finance
