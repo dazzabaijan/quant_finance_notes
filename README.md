@@ -1,4 +1,4 @@
-# quant_finance_notes
+# Notes on Quantitative Finance
 This repo contains my latex notes of several quantitative finance textbooks that I'm going through.
 
 ## Contents
